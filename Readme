@@ -1,0 +1,11 @@
+All MATLAB codes were compiled by Karthik Vijayakumar on 30th December 2014.
+
+Please also refer to the Readme in individual folders.
+
+*The project was started to implement path following for UAVs using simple guidance laws in urban environments with occlusions.
+
+*Some well defined urban scenarios were generated in MATLAB and visibility regions for UAVs at a particular height was generated 
+ using simple geometry. 
+
+*This was followed by implementing guidance laws to allow the UAVs to track targets on the road.
+
