@@ -3,9 +3,10 @@ close all;
 
 rotate3d;
 
-h = 600;%input('Enter the height of UAV: ');
+h = 700;%input('Enter the height of UAV: ');
 
-const1 = 0;const2 = 1500;
+const1 = 0;
+const2 = 1500;
 
 R = [750,0,0];%input('Enter the point on the road: ');
 
